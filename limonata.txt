@@ -2,4 +2,8 @@ limonata tarifi
 
 1.limon
 2.Su
+<<<<<<< HEAD
 3.  Şeker
+=======
+3. 1 kup Şeker conflict 
+>>>>>>> feature
