@@ -1,4 +1,5 @@
 limonata tarifi
 
 1.limon
-2.su
+2.Su
+3.Şeker
